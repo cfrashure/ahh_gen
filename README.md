@@ -1,5 +1,6 @@
 # ahh_gen
 A brainrot C program.
+
 ![image](https://github.com/user-attachments/assets/c2be64bf-4143-4999-96f6-6a559ecd97bc)
 
 ## Requirements
