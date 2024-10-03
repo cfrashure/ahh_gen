@@ -1,0 +1,75 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.core
+*.pdb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# macOS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux-specific
+*~
+
+# IDE and editor-specific
+# JetBrains IDEs (CLion, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.swp
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+*.cmake
+
+# Makefile generated files
+*.d
+
